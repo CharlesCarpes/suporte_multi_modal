@@ -1,14 +1,20 @@
-# Suporte Multi Modal
+# Dê Visão ao Mundo: IA que Descreve Imagens para Pessoas com Deficiência Visual
 
-Este projeto utiliza a API do Gemini para permitir que pessoas com deficiência visual possam obter a descrição de imagens através de comandos de voz.
+Imagine um mundo onde a informação visual se torna acessível a todos. É essa a promessa do **Suporte Multi Modal**, um projeto inovador que utiliza o poder da IA do Gemini para descrever imagens através de comandos de voz.
 
-O código foi escrito em Python e usa o Google COLAB para interagir com os modelos generativos do Google. Assim, é possível utilizar esta solução diretamente em qualquer dispositivo (PC, Notebook ou celular Android) que tenha o navegador Chrome instalado.
+## Construindo um Futuro Inclusivo:
 
-O caso de uso principal para qual o projeto foi pensado é o de facilitar o acesso à informações visuais por pessoas com algum tipo de deficiência visual. Em uma futura versão, o código poderia ser embarcado em um equipamento vestível (como óculos ou um capacete com câmera) e o usuário poderia fazer consultas por voz através da API para obter a descrição das imagens capturadas pela câmera do dispositivo. Neste caso de uso, o deficiente visual poderia transitar pela cidade com o equipamento e ser capaz de localizar informações visuais como placas de trânsito, pontos de ônibus, estabelecimentos comerciais e, eventualmente, reconhecer novos obstáculos no trajeto.
+Pensado inicialmente para empoderar pessoas com deficiência visual, o Suporte Multi Modal utiliza Python e Google Colab para funcionar em qualquer dispositivo com Chrome. Através de comandos de voz, usuários podem "ouvir" a descrição de qualquer imagem, abrindo um novo mundo de possibilidades.
 
-### Outros casos de uso incluem:
+## Inovação que Transcende Barreiras:
 
-1. **Assistente virtual acionado por voz (semelhante à Alexa)** com capacidade de visão computacional que poderia ser utilizada em dispositivos vestíveis ou móveis (como celulares, drones e veículos robóticos). No caso de dispositivos vestíveis, a assistente poderia ser acionada por um botão físico e, a partir do toque no botão, iniciar a conversa e a captura de imagens.
-2. **Análise de emoções com a webcam do usuário**: Com uma pequena modificação no código, é possível utilizar as imagens da webcam do usuário para identificar suas emoções durante um diálogo de atendimento com um chatbot. Isso seria especialmente interessante para chatbots utilizados para atendimento a demandas de clientes (identificar ansiedade, humor do cliente em casos de reclamação) e em sistemas de vendas automatizadas onde o cliente poderia receber informações sobre produtos e dialogar com o chatbot para efetivar a compra. Com acesso à câmera, o chatbot poderia avaliar o nível de interesse dos clientes em relação a cada produto apresentado através da análise de suas expressões faciais e linguagem corporal.
-3. **Sistema de segurança para identificação de pessoas suspeitas**: O mesmo sistema poderia ser utilizado em sistemas de segurança para identificar pessoas suspeitas em um local monitorado e iniciar um aviso ao usuário.
+Mas a visão do projeto vai além! Imagine:
 
+- Um dispositivo vestível (óculos ou capacete com câmera) que permite ao usuário navegar pela cidade, recebendo descrições em tempo real de placas de trânsito, pontos de ônibus, estabelecimentos e obstáculos.
+- Uma assistente virtual com visão computacional, similar à Alexa, integrada a dispositivos móveis, drones ou robôs, proporcionando uma interação intuitiva e rica com o mundo.
+- Chatbots com análise de emoções, capazes de "ler" as expressões faciais do usuário, aprimorando a experiência em atendimentos, vendas e outras interações online.
+- Sistemas de segurança inteligentes que identificam pessoas suspeitas em tempo real, aumentando a segurança de locais monitorados.
+
+O **Suporte Multi Modal** é um passo crucial rumo a um futuro mais inclusivo e tecnológico, onde a informação visual não conhece barreiras.
+
+**Vote neste projeto e ajude a construir um futuro onde todos podem ver o mundo!**
